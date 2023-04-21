@@ -1,43 +1,43 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: devlnull/me
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Amirhossein Ghorbani
+title: Senior Software Engineer
+email: amirhosseinghorbani@hotmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 989168086844
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: devlnull.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: devlnull
+github_username:  devlnull
+stackoverflow_username: "5301677"
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
+linkedin_username: amirhossein-ghorbani
+xing_username: 
+pinterest_username: 
+youtube_username: 
+orcid_username: 
+googlescholar_username: 
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# - title: Medium
+#   icon: fa-medium
+#   url: https://medium.com/@devlnull
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,70 +50,86 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+about_profile_image: images/profile-picture-1-1.jpg
+about_content: |
+      As a Software Engineer, I follow **TDD**, **DDD**, and **BDD** principles and use **efficient solutions**. <br />
+      I can quickly understand the business and beside **maintaining**, I'm able to **refactor** systems to **reduce costs**. <br />
+      **Simplicity is key**, and I offer **simple solutions** to **avoid complexity**. <br />
+      I have experience in **tourism** and **biometric solutions**, allowing me to adapt to different markets. <br />
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: Albaba Travels Co
+        sub_title: Software Engineer
+        caption: 2021 - NOW
+        link: https://alibaba.ir
+        quote:
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Alibaba Travels Co is a **prominent online travel agency** based in **Iran**, and I am proud to serve as a software engineer responsible for **developing** and **maintaining** the company's **existing services**. 
+          While my focus lies primarily on **vertical services**, I have also **contributed** to the development of **shared services**. 
+          Thanks to my cutting-edge colleagues and access to the latest technologies, I have found Alibaba Travels Co to be an ideal environment for professional growth and ongoing learning.
+      - layout: left
+        title: SepidSystem
+        sub_title: Software Engineer
+        caption: 2019 - 2021
+        link: https://sepidsystem.com
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Our innovative solution revolutionized the way Iranian banks handle **safe deposit boxes**. 
+          By implementing a **biometric authorization** system and automating the entire process, we were able to **enhance security** and **streamline operations** for both the banks and their customers.
+          As a software developer, my role in this project was to develop and maintain the system. 
+          In addition to regular **maintenance**, I led the effort to **refactor the system** using Clean Architecture principles. 
+          This allowed us to build new features based on **dynamic workflows**, further improving the **efficiency** and functionality of the system.
+      - layout: left
+        title: 1st
+        sub_title: Backend Developer
+        caption: 2017 - 2019
+        link: https://1st.ir
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          As a college student with a part-time job, I had the opportunity to work on PayamGostar, a large **CRM** system with multiple modules. 
+          Specifically, I was responsible for developing a **payment system** with an admin dashboard panel to manage the entire system.
+          In addition to this, I also worked on creating **complex reports** that utilized the **workflow system data**. 
+          Although this experience presented its fair share of challenges, it was ultimately a valuable and rewarding experience that allowed me to develop my skills as a software developer.
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+      - layout: left
+        title: Shamsipour Technical and Vocational College
+        sub_title: BA Software Engineering
+        caption: 2017 - 2019
+        quote:
+        description: |
+          Attending the **best technical college** in the country was an incredible opportunity for me to learn and expand my knowledge in Software Engineering. 
+          Throughout my academic studies, I was exposed to a range of exciting and interesting topics, including **algorithms** and **data structures**, **operating systems**, **databases**, **network systems**, **math** and **logical circuits**.
+          These academic topics have **proved** invaluable in my **technical career**, allowing me to apply my **theoretical knowledge** to **real-world situations** and develop practical solutions to complex problems. 
+          I truly believe that my academic studies provided me with a strong foundation that has allowed me to excel in my professional career as a software developer.
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Microservices** , **RabbitMQ** , **Kubernetes** , **.NET Framework** , **Docker** , **Gitlab** , **Redis** , **Elastic** , **Software Architecture** , 
+      **Clean Architecture** , **API Gateways** , **Workflows** , **Agile Methodologies** , **Biometrics** , **TDD** , **DDD** , **BDD** , **ASP.NET** , **SQL Server** , 
+      **EntityFramework (ORMs)** , **Algorithms** , **Data Structures** , **Network** 
+  - title: Languages
+    layout: text
+    content: |
+      English: Professional Working Proficiency <br />
+      Persian: Native
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      At the young age of 14, I discovered my passion for technology and began **teaching myself programming** through **books.** <br />
+      This passion for programming continued to grow, leading me to pursue a degree in Software Engineering through **college** and **university**. <br />
+      In my free time, I enjoy playing **games** and **going for runs**, but studying new technology and **reading books** related to my field is a major hobby of mine. <br />
+      I find that **music** and **coffee** are my go-to sources of energy, helping me accomplish great things and stay **focused** on my goals. <br />
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
+references_title: Amirhossein Ghorbani
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

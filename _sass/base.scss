@@ -5,7 +5,7 @@
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
-  background-color: #477dca;
+  background-color: #510455;
   border: 0;
   border-radius: 3px;
   color: #fff;
@@ -36,8 +36,8 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
       background-color: #477dca; }
 
 fieldset {
-  background-color: #f7f7f7;
-  border: 1px solid #ddd;
+  background-color: #510455;
+  border: 1px solid #3c013a;
   margin: 0 0 0.75rem;
   padding: 1.5rem; }
 
@@ -77,13 +77,13 @@ table {
   width: 100%; }
 
 th {
-  border-bottom: 1px solid #a6a6a6;
+  border-bottom: 1px solid #3c013a;
   font-weight: 600;
   padding: 0.75rem 0;
   text-align: left; }
 
 td {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #3c013a;
   padding: 0.75rem 0; }
 
 tr,
@@ -92,7 +92,7 @@ th {
   vertical-align: middle; }
 
 hr {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #3c013a;
   border-left: 0;
   border-right: 0;
   border-top: 0;
@@ -130,14 +130,14 @@ html {
   -moz-transition: all 0.3s;
   transition: all 0.3s;
   border-radius: 0;
-  background: #DEDEDE;
-  color: #4C4C4C; }
+  background: #510455;
+  color: #FFF; }
   .btn:focus {
-    background: #DEDEDE;
-    color: #4C4C4C; }
+    background: #3c013a;
+    color: #FFF; }
   .btn:hover {
-    background: #CCCCCC;
-    color: #4C4C4C; }
+    background: #3c013a;
+    color: #FFF; }
   .btn:active {
     top: 2px; }
   .btn.disabled {
