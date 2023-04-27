@@ -35,9 +35,9 @@ googlescholar_username:
 
 # Additional icon links
 additional_links:
-# - title: Medium
-#   icon: fa-medium
-#   url: https://medium.com/@devlnull
+- title: Download CV
+  icon: fa-download
+  url: https://drive.google.com/file/d/1y_nzcHu072h8RplMh_BuE4YGuA-4JwcK/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,10 +52,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-picture-1-1.jpg
 about_content: |
-      As a Software Engineer, I follow **TDD**, **DDD**, and **BDD** principles and use **efficient solutions**. <br />
-      I can quickly understand the business and beside **maintaining**, I'm able to **refactor** systems to **reduce costs**. <br />
-      **Simplicity is key**, and I offer **simple solutions** to **avoid complexity**. <br />
-      I have experience in **tourism** and **biometric solutions**, allowing me to adapt to different markets. <br />
+      Highly skilled software developer with **more than 5 years experience.** At Alibaba Travels Co, successfully led the development
+      of a **survey software** to manage rate and reviews for vertical services and **refactored** the leading bus ticketing software in the
+      country, resulting in more than **100% performance improvement.** Additionally, implemented promotions for bus services, 
+      streamlined the **CI/CD pipeline**, and developed alerting services for critical situations. At SepidSystem, **refactored** and
+      developed Safe Deposit Boxes software, created a dynamic **workflow engine module**, implemented a **biometric-based** user 
+      authorization solution, and maintained and updated older versions of the software. Possesses strong analytical and 
+      problem-solving skills and a proven track record of delivering solutions that meet business needs while exceeding 
+      expectations.
 
 content:
   - title: Experience
@@ -68,9 +72,15 @@ content:
         link: https://alibaba.ir
         quote:
         description: | # this will include new lines to allow paragraphs
-          Alibaba Travels Co is a **prominent online travel agency** based in **Iran**, and I am proud to serve as a software engineer responsible for **developing** and **maintaining** the company's **existing services**. 
-          While my focus lies primarily on **vertical services**, I have also **contributed** to the development of **shared services**. 
-          Thanks to my cutting-edge colleagues and access to the latest technologies, I have found Alibaba Travels Co to be an ideal environment for professional growth and ongoing learning.
+          • Developed a survey service to manage rate and reviews for vertical services with over 10K surveys per day. <br />
+          • Successfully refactored the leading bus ticketing software in the country, achieving more than 100% increase in
+          performance and setting a new record of one sale per second. <br />
+          • Led the implementation of promotions for bus services, enabling users to receive discounts on different routes and
+          managing stakeholder expectations. <br />
+          • Streamlined the CI/CD pipeline by implementing a new solution that utilized Docker caching layers, resulting in a
+          200% faster delivery process. <br />
+          • Implemented domain events and reduced coupling in the bus service components, resulting in a more efficient
+          and scalable system. <br />
       - layout: left
         title: SepidSystem
         sub_title: Software Engineer
@@ -78,11 +88,12 @@ content:
         link: https://sepidsystem.com
         quote:
         description: | # this will include new lines to allow paragraphs
-          Our innovative solution revolutionized the way Iranian banks handle **safe deposit boxes**. 
-          By implementing a **biometric authorization** system and automating the entire process, we were able to **enhance security** and **streamline operations** for both the banks and their customers.
-          As a software developer, my role in this project was to develop and maintain the system. 
-          In addition to regular **maintenance**, I led the effort to **refactor the system** using Clean Architecture principles. 
-          This allowed us to build new features based on **dynamic workflows**, further improving the **efficiency** and functionality of the system.
+          • I have refactored Safe Deposit Boxes software (Used by most of Iranian banks) to achieve better processes and
+          workflows. <br />
+          • Developed a dynamic workflow engine module for the Safe Deposit Boxes service, enabling real-time design of
+          custom workflows to fit each bank'’'s specific needs. <br />
+          • Created a Migration tool to facilitate offline database conversions from old to new versions in banks’ data centers. <br />
+          • Implemented a biometric-based user authorization solution, requiring users to utilize a fingerprint or face detection device to access their active contract box. <br />
       - layout: left
         title: 1st
         sub_title: Backend Developer
@@ -90,10 +101,9 @@ content:
         link: https://1st.ir
         quote:
         description: | # this will include new lines to allow paragraphs
-          As a college student with a part-time job, I had the opportunity to work on PayamGostar, a large **CRM** system with multiple modules. 
-          Specifically, I was responsible for developing a **payment system** with an admin dashboard panel to manage the entire system.
-          In addition to this, I also worked on creating **complex reports** that utilized the **workflow system data**. 
-          Although this experience presented its fair share of challenges, it was ultimately a valuable and rewarding experience that allowed me to develop my skills as a software developer.
+          • Generated workflow statistics and analytics reports using complex SQL queries based on data from the workflow engine. <br />
+          • Developed various features for a dashboard management system in a Financial Service, including functionality for managing users, transactions, merchants, and more <br />
+
   - title: Education
     layout: list
     content:
@@ -111,14 +121,14 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Microservices** , **RabbitMQ** , **Kubernetes** , **.NET Framework** , **Docker** , **Gitlab** , **Redis** , **Elastic** , **Software Architecture** , 
-      **Clean Architecture** , **API Gateways** , **Workflows** , **Agile Methodologies** , **Biometrics** , **TDD** , **DDD** , **BDD** , **ASP.NET** , **SQL Server** , 
-      **EntityFramework (ORMs)** , **Algorithms** , **Data Structures** , **Network** 
+      **Technologies** : .NET Framework, Web Api, WCF, Git, T-SQL, SQL Server, Redis, EF Core, Dapper <br />
+      **Proficiency in** : TDD, DDD, UML, Software Architectures, Algorithm and Data Structures, Design Pattern, Refactoring, Architectural Patterns, Microservices, Agile Methodologies <br />
+      **Tools** : Docker, Kubernetes, RabbitMQ, Elastic, Grafana, K6, TFS, Jira, Microsoft Teams
   - title: Languages
     layout: text
     content: |
-      English: Professional Working Proficiency <br />
-      Persian: Native
+      **English**: Professional Working Proficiency <br />
+      **Persian**: Native
 
   - title: A Little More About Me
     layout: text
