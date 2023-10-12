@@ -52,14 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-picture-1-1.jpg
 about_content: |
-      Highly skilled software developer with **more than 5 years experience.** At Alibaba Travels Co, successfully led the development
-      of a **survey software** to manage rate and reviews for vertical services and **refactored** the leading bus ticketing software in the
-      country, resulting in more than **100% performance improvement.** Additionally, implemented promotions for bus services, 
-      streamlined the **CI/CD pipeline**, and developed alerting services for critical situations. At SepidSystem, **refactored** and
-      developed Safe Deposit Boxes software, created a dynamic **workflow engine module**, implemented a **biometric-based** user 
-      authorization solution, and maintained and updated older versions of the software. Possesses strong analytical and 
-      problem-solving skills and a proven track record of delivering solutions that meet business needs while exceeding 
-      expectations.
+        Experienced software engineer with over 6 years of expertise.
+        Led development of survey software and improved the leading bus ticketing software's **performance by over 100%** at Alibaba Travels Co.
+        Implemented promotions, **streamlined CI/CD**, and created alerting services.
+        At SepidSystem, **refactored Safe Deposit Boxes** software, introduced a **dynamic workflow engine module**, and implemented a **biometric-based user authorization solution**.
+        Known for strong analytical and problem-solving skills, consistently delivering solutions that exceed expectations.
 
 content:
   - title: Experience
