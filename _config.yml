@@ -67,8 +67,19 @@ content:
     content:
       - layout: left
         title: Alibaba Travels Co
+        sub_title: Senior Software Engineer
+        caption: 2023 - NOW
+        link: https://alibaba.ir
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          • I played a pivotal role as the lead software engineer in the B2B Merge project, successfully combining a separate B2B travel project into our B2C project.
+           This effort significantly reduced costs for the company and led to major changes in our microservices structure to better understand the B2B system. <br />
+          • Improved existing platform and base project issues and bugs through comprehensive refactoring,
+           introducing innovative solutions, and seamlessly integrating them into base projects to enhance overall performance. <br />
+      - layout: left
+        title: Alibaba Travels Co
         sub_title: Software Engineer
-        caption: 2021 - NOW
+        caption: 2021 - 2023
         link: https://alibaba.ir
         quote:
         description: | # this will include new lines to allow paragraphs
