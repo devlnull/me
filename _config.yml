@@ -64,8 +64,19 @@ content:
     content:
       - layout: left
         title: Alibaba Travels Co
+        sub_title: Technical Lead
+        caption: 2024 - NOW
+        link: https://alibaba.ir
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          • After being promoted to Senior Software Engineer and completing courses in people management and leadership, I smoothly transitioned to lead the B2B team. <br />
+          • I mentored a team of **three**, **conducted interviews**, and hired two new members to expand the team to **five**. <br />
+          • My responsibilities included **mentoring team members**, **creating individualized roadmaps**, **delivering new features**, **maintaining existing services**, and **improving solution efficiency**. <br />
+          • These initiatives **increased our GMV by 20%**, establishing us as a strong contender in the travel and tourism B2B market, and significantly enhancing our product and **business satisfaction**. <br />
+      - layout: left
+        title: Alibaba Travels Co
         sub_title: Senior Software Engineer
-        caption: 2023 - NOW
+        caption: 2023 - 2024
         link: https://alibaba.ir
         quote:
         description: | # this will include new lines to allow paragraphs
