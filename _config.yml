@@ -52,11 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-picture-1-1.jpg
 about_content: |
-        Software engineer with over 10 years of experience building reliable, high-performance systems across complex domains like travel, booking, and financial services.
-        I enjoy working through architectural challenges and designing systems that scale well and remain maintainable over time.
-        In past roles, I’ve taken the lead on critical projects, collaborated with cross-functional teams, and helped guide engineering decisions that align with business goals. 
-        I’m comfortable weighing technical trade-offs and navigating the messier parts of system design.
-        I’m always learning — from books, open-source projects, and other engineers’ solutions — and I try to bring that curiosity into everything I build.
+        Software engineer with over 10 years of experience building reliable, high-performance systems across complex domains like travel, booking, and financial services. <br />
+        I enjoy working through architectural challenges and designing systems that scale well and remain maintainable over time. <br />
+        In past roles, I’ve taken the lead on critical projects, collaborated with cross-functional teams, and helped guide engineering decisions that align with business goals. <br />
+        I’m comfortable weighing technical trade-offs and navigating the messier parts of system design. <br />
+        I’m always learning — from books, open-source projects, and other engineers’ solutions — and I try to bring that curiosity into everything I build. <br />
 
 content:
   - title: Experience
@@ -69,9 +69,9 @@ content:
         link: https://alibaba.ir
         quote:
         description: | # this will include new lines to allow paragraphs
-          • Designed and delivered a Buy Now, Pay Later (BNPL) service tailored for B2B customers in the travel and tourism space, solving real-world challenges around payment flexibility and delayed settlements.
-          • Mentored a team of seven engineers, supported their technical growth, and helped shape our team roadmap and day-to-day development practices.
-          • Improved system performance and delivery workflows, contributing to a 20% increase in GMV and helping establish the product as a strong player in the B2B market.
+          • Designed and delivered a Buy Now, Pay Later (BNPL) service tailored for B2B customers in the travel and tourism space, solving real-world challenges around payment flexibility and delayed settlements. <br />
+          • Mentored a team of seven engineers, supported their technical growth, and helped shape our team roadmap and day-to-day development practices. <br />
+          • Improved system performance and delivery workflows, contributing to a 20% increase in GMV and helping establish the product as a strong player in the B2B market. <br />
       - layout: left
         title: Alibaba Travels Co
         sub_title: Senior Software Engineer
