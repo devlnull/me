@@ -122,10 +122,10 @@ content:
           • Generated workflow statistics and analytics reports using complex SQL queries.
           • Built and maintained the Payment Service Dashboard, enabling sales teams and administrators to configure business rules and manage critical components of the payment flow
       - layout: left
-        title: 1st
+        title: College - Freelancer
         sub_title: Intern Developer
         caption: 2015 - 2017
-        link: https://1st.ir
+        link:
         quote:
         description: | # this will include new lines to allow paragraphs
           • Collaborated with the IT department to develop internal web applications supporting the college’s dining plan system, improving usability and efficiency for staff and students.
