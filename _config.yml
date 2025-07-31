@@ -35,9 +35,9 @@ googlescholar_username:
 
 # Additional icon links
 additional_links:
-- title: Download CV
+- title: Download Resume
   icon: fa fa-download
-  url: https://drive.google.com/file/d/1y_nzcHu072h8RplMh_BuE4YGuA-4JwcK/view?usp=sharing
+  url: https://drive.google.com/file/d/1emXBsULMA7Iie5ilYRu8GZ5NnBHNorZq/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,11 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-picture-1-1.jpg
 about_content: |
-        Experienced software engineer with over 7 years of expertise in leading and developing high-performance software solutions. 
-        Recently transitioned to a Technical Lead role, where I **mentor a team**, **develop strategic roadmaps**, and **enhance product efficiency**. 
-        As a key member of the team, I contributed to **increasing GMV by 20%** in the B2B travel and tourism market. 
-        Known for strong analytical and **problem-solving skills**, I consistently deliver innovative solutions that exceed expectations. 
-        Passionate about continuous learning, reading software design books, and exploring other engineers' experiences and solutions.
+        Software engineer with over 10 years of experience building reliable, high-performance systems across complex domains like travel, booking, and financial services.
+        I enjoy working through architectural challenges and designing systems that scale well and remain maintainable over time.
+        In past roles, I’ve taken the lead on critical projects, collaborated with cross-functional teams, and helped guide engineering decisions that align with business goals. 
+        I’m comfortable weighing technical trade-offs and navigating the messier parts of system design.
+        I’m always learning — from books, open-source projects, and other engineers’ solutions — and I try to bring that curiosity into everything I build.
 
 content:
   - title: Experience
@@ -69,10 +69,9 @@ content:
         link: https://alibaba.ir
         quote:
         description: | # this will include new lines to allow paragraphs
-          • After being promoted to Senior Software Engineer and completing courses in people management and leadership, I smoothly transitioned to lead the B2B team. <br />
-          • I mentored a team of **three**, **conducted interviews**, and hired two new members to expand the team to **five**. <br />
-          • My responsibilities included **mentoring team members**, **creating individualized roadmaps**, **delivering new features**, **maintaining existing services**, and **improving solution efficiency**. <br />
-          • These initiatives **increased our GMV by 20%**, establishing us as a strong contender in the travel and tourism B2B market, and significantly enhancing our product and **business satisfaction**. <br />
+          • Designed and delivered a Buy Now, Pay Later (BNPL) service tailored for B2B customers in the travel and tourism space, solving real-world challenges around payment flexibility and delayed settlements.
+          • Mentored a team of seven engineers, supported their technical growth, and helped shape our team roadmap and day-to-day development practices.
+          • Improved system performance and delivery workflows, contributing to a 20% increase in GMV and helping establish the product as a strong player in the B2B market.
       - layout: left
         title: Alibaba Travels Co
         sub_title: Senior Software Engineer
@@ -120,8 +119,16 @@ content:
         link: https://1st.ir
         quote:
         description: | # this will include new lines to allow paragraphs
-          • Generated workflow statistics and analytics reports using complex SQL queries based on data from the workflow engine. <br />
-          • Developed various features for a dashboard management system in a Financial Service, including functionality for managing users, transactions, merchants, and more <br />
+          • Generated workflow statistics and analytics reports using complex SQL queries.
+          • Built and maintained the Payment Service Dashboard, enabling sales teams and administrators to configure business rules and manage critical components of the payment flow
+      - layout: left
+        title: 1st
+        sub_title: Intern Developer
+        caption: 2015 - 2017
+        link: https://1st.ir
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          • Collaborated with the IT department to develop internal web applications supporting the college’s dining plan system, improving usability and efficiency for staff and students.
 
   - title: Education
     layout: list
@@ -136,12 +143,18 @@ content:
           Throughout my academic studies, I was exposed to a range of exciting and interesting topics, including **algorithms** and **data structures**, **operating systems**, **databases**, **network systems**, **math** and **logical circuits**.
           These academic topics have **proved** invaluable in my **technical career**, allowing me to apply my **theoretical knowledge** to **real-world situations** and develop practical solutions to complex problems. 
           I truly believe that my academic studies provided me with a strong foundation that has allowed me to excel in my professional career as a software developer.
+      - layout: left
+        title: Dezful Technical and Vocational College
+        sub_title: Technical Diploma in Software Engineering
+        caption: 2017 - 2019
+        quote:
+        description:
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Technologies** : .NET Framework, Web Api, WCF, Git, T-SQL, SQL Server, Redis, EF Core, Dapper <br />
-      **Proficiency in** : TDD, DDD, UML, Software Architectures, Algorithm and Data Structures, Design Pattern, Refactoring, Architectural Patterns, Microservices, Agile Methodologies <br />
+      **Technologies** :  .NET Stack, Git, T-SQL, Relational Databases, Redis, ORMs <br />
+      **Proficiency in** :  Software Architectures, System Design, Algorithm and Data Structures, Design Pattern, Refactoring, Architectural Patterns, Microservices, Agile Methodologies, TDD, DDD, BDD, UML <br />
       **Tools** : Docker, Kubernetes, RabbitMQ, Elastic, Grafana, K6, TFS, Jira, Microsoft Teams
   - title: Languages
     layout: text
